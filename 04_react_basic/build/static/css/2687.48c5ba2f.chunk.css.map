@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/2687.48c5ba2f.chunk.css","mappings":"AAAA,oBAGI,qBAAsB,CADtB,UAAW,CADX,YAGJ","sources":["060_styling/end/Example.css"],"sourcesContent":[".App-end .component {\n    padding: 1rem;\n    color: blue;\n    border: 5px solid blue;\n}"],"names":[],"sourceRoot":""}

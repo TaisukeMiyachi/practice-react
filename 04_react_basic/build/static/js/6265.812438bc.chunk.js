@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_app_template=self.webpackChunkreact_app_template||[]).push([[6265],{6265:function(e,l,t){t.r(l);var n=t(2791),o=t(184);l.default=function(){return console.log((0,o.jsxs)("div",{children:[(0,o.jsx)("h1",{children:"Hello!"}),(0,o.jsx)("h2",{children:"Good to see you."})]}).props),n.createElement("div",null,n.createElement("h1",null,"Hello!"),n.createElement("h2",null,"Good to see you."))}}}]);
+//# sourceMappingURL=6265.812438bc.chunk.js.map

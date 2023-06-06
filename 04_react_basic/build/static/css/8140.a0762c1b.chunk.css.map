@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/8140.a0762c1b.chunk.css","mappings":"AAAA,sBAGE,qBAAsB,CADtB,UAAW,CADX,YAGF","sources":["085_expr_and_state/start/components/Child.css"],"sourcesContent":[".App-start .component {\n  padding: 1rem;\n  color: blue;\n  border: 5px solid blue;\n}"],"names":[],"sourceRoot":""}

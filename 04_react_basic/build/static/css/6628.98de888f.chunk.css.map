@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/6628.98de888f.chunk.css","mappings":"AAAA,WAGE,qBAAsB,CADtB,UAAW,CADX,YAGF,CAEA,IACE,oBACF","sources":["080_expr_in_jsx/end/components/Child.css"],"sourcesContent":[".component {\n  padding: 1rem;\n  color: blue;\n  border: 5px solid blue;\n}\n\ndiv {\n  margin-bottom: 1.5rem;\n}\n"],"names":[],"sourceRoot":""}

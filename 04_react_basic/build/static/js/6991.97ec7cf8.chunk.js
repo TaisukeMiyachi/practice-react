@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_app_template=self.webpackChunkreact_app_template||[]).push([[6991,8878],{6991:function(e,a,n){n.r(a);n(8878);var r=n(184);a.default=function(e){var a=e.name,n=void 0===a?"John Doe":a,s=e.age,t=void 0===s?"??":s,c=e.country,i=void 0===c?"Japan":c;return(0,r.jsxs)("div",{className:"profile",children:[(0,r.jsxs)("h3",{children:["Name: ",n]}),(0,r.jsxs)("p",{children:["Age: ",t," "]}),(0,r.jsxs)("p",{children:["From: ",i]})]})}},8878:function(e,a,n){n.r(a),a.default={}}}]);
+//# sourceMappingURL=6991.97ec7cf8.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_app_template=self.webpackChunkreact_app_template||[]).push([[8830,4910],{8830:function(e,n,t){t.r(n);t(4910);var a=t(184);n.default=function(e){var n=e.color,t=void 0===n?"green":n;e.num,e.fn,e.bool,e.obj;return(0,a.jsx)("div",{className:"component ".concat(t),children:(0,a.jsx)("h3",{children:"Hello Component"})})}},4910:function(e,n,t){t.r(n),n.default={}}}]);
+//# sourceMappingURL=8830.0400debf.chunk.js.map
